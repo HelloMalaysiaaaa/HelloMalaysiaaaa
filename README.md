@@ -28,7 +28,7 @@
 
 # 🌸 All about me 🌸
 
-Hi, I'm obviously Malaysia. I just started coding because I take AP Comp Sci, so I'm only halfway through knowing  one language, "Python." The majority of the time, you might see me on my MacBook that I beeged my parents to get me for two years straight. I really like suhsi 🍣. My fav vocal stims are " I ate noodles with no packet" and "67."
+Hi, I'm obviously Malaysia. I just started coding because I take AP Comp Sci, so I only really know one language, "Python." The majority of the time, you might see me on my MacBook that I begged my parents to get me for two years straight. I really like suhsi 🍣. My fav vocal stims are " I ate noodles with no packet" and "67."
 
 <br>
 <br>
