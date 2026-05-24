@@ -50,5 +50,5 @@ Hi, I'm obviously Malaysia. I just started coding because I take AP Comp Sci, so
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&ring=FF69B4&fire=00F5D4&currStreakLabel=FF69B4&dates=00F5D4&background=00000000" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HelloMalaysiaaaa&theme=catppuccin-frappe&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+<p>
